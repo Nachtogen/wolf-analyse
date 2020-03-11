@@ -1,2 +1,2 @@
-# wolf-analyse
-Analyse van wolven in fictie boeken
+# wolf-analyse in fictie
+Analyse van wolven bij fictie boeken
